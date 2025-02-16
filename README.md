@@ -8,4 +8,4 @@ making data-driven decisions for business growth.
 - SQL for Data Exploration, Data Cleaning and Data Validation
 - Tableau for Data Visualization
 ## 📈 Project Details   
-For more details, visit: [My Portfolio Website]()
+For more details, visit: [My Portfolio Website](nikhilkanojia.pages.dev/projects/Netflix Content Analysis)
